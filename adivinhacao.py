@@ -1,7 +1,7 @@
 import random
 
 def jogar():
-    name = "Juliana"
+    name = (input("Qual o seu nome?" ))
     print("*****************************************")
     print("Bem vinda", name, "ao jogo de adivinhação!",sep=" ",end="\n")
     #print("Bem vinda",name,sep=" ",end="!")
